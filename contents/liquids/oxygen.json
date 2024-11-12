@@ -1,1 +1,13 @@
+{
+  "type": "LiquidType",
+  "name": "oxygen",
+  "localizedName": "Oxygen",
+  "description": "A vital gas used in advanced machinery and life support.",
+  "color": "80D4FF",            // A light blue color to represent oxygen
+  "temperature": 0.0,           // 0 means neutral; can set to higher values if representing a hot gas
+  "viscosity": 0.1,             // Lower viscosity since oxygen is a gas
+  "flammability": 0.8,          // Highly flammable (oxygen fuels combustion)
+  "explosiveness": 0.5,         // Moderately explosive if mixed with the right conditions
+  "gaseous": true               // Set to true since oxygen is a gas
+}
 
