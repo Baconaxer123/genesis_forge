@@ -8,7 +8,7 @@ name: "genesis_forge"
 author: "the idiots"
 
 #the fully qualified main class of the mod
-main: " "
+main: ""
 
 #the mod description as seen in the mod dialog
 description: "most random mod you ever seen."
