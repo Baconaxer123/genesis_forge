@@ -1,0 +1,12 @@
+{
+  "type": "ItemType",
+  "name": "custom_brick",
+  "localizedName": "Brick",
+  "description": "A sturdy building material.",
+  "color": "B55233",                 // Main color for the brick item
+  "radioactivity": 0.0,
+  "explosiveness": 0.0,
+  "flammability": 0.2,
+  "charge": 0
+}
+
