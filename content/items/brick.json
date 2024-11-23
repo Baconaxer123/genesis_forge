@@ -1,1 +1,10 @@
-
+{
+"name": "brick",
+"localizedName": "Brick",
+"description": "a hard metarial",
+"color": "ff360e",
+"explosiveness": 0.0,
+"flammability": 0.0,
+"radioctivity": 0.0,
+"hardness": 1
+}
