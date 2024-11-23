@@ -1,10 +1,10 @@
-displayName: "genesis_forge"
+displayName: "genesis forge"
 name: "genesis_forge"
 author: "Baconaxer123"
 main: "Baconaxer123.Genesis_forgeMod"
 repo: "Baconaxer123/genesis_forge"
 subtitle: ""
-description: ""
+description: "random stuff"
 version: "1.0"
 minGameVersion: "141"
 java: true
