@@ -10,8 +10,8 @@
 
 - [x] Create a new Mindustry Java mod project.
 - [x] Edit the [mod.hjson](mod.hjson) for your mod.
-- [ ] Create your first content: a block or an item.
-- [ ] Put sprites and bundles into [assets](assets) directory.
+- [x] Create your first content: a block or an item.
+- [x] Put sprites and bundles into [assets](assets) directory.
 - [ ] Check the Mindustry's sources with your IDE or on its [repository](https://github.com/Anuken/Mindustry).
 - [ ] Make a nice [icon](icon.png) to replace the placeholder.
 - [ ] Dispatch [`Create Draft Release` workflow](https://github.com/Baconaxer123/genesis_forge/actions/workflows/ReleaseDraft.yaml) to generate a release draft on [GitHub](https://github.com/Baconaxer123/genesis_forge/releases).
